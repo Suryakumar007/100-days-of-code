@@ -7,4 +7,9 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
+### Day 2: March 26 2020
 
+**Today's Progress**: Did many handson on the given tutorials
+**Thoughts:** Still struggling to finish the bar chart project.
+
+**Link to work:** https://github.com/Suryakumar007/d3.JS-Projects
