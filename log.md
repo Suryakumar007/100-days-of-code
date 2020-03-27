@@ -13,3 +13,10 @@
 **Thoughts:** Still struggling to finish the bar chart project.
 
 **Link to work:** https://github.com/Suryakumar007/d3.JS-Projects
+
+### Day 3: March 27 2020
+
+**Today's Progress**: Had a improvement in drawing a line chart for COVID-19.
+**Thoughts:** Using d3.js is kind of difficult as it is hard to find nice tutorials in intermediate level.
+
+**Link to work:** https://github.com/Suryakumar007/d3.JS-Projects/tree/master/Sample
