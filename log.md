@@ -20,3 +20,28 @@
 **Thoughts:** Using d3.js is kind of difficult as it is hard to find nice tutorials in intermediate level.
 
 **Link to work:** https://github.com/Suryakumar007/d3.JS-Projects/tree/master/Sample
+
+### Day 4: March 28 2020
+
+**Today's Progress**: Tried with Chartist.js
+**Thoughts:** The chartist .js looked fine but the CDN wasn't loading properly
+**Link to work:** https://github.com/Suryakumar007/d3.JS-Projects/tree/master/Sample
+
+### Day 5: March 29 2020
+
+**Today's Progress**: Moved to Chart.JS
+**Thoughts:** Finally attained a table chart for display
+
+**Link to work:** https://github.com/Suryakumar007/d3.JS-Projects/tree/master/Sample
+
+### Day 6: March 30 2020
+
+**Today's Progress**: Started front end design with Bootstrap
+**Thoughts:** Again struggled with front end and CSS. Cannot made a good progress. Need to work hard tomorrow.
+**Link to work:** https://github.com/Suryakumar007/d3.JS-Projects/tree/master/Sample
+
+### Day 7: March 31 2020
+
+**Today's Progress**: Built a single page with many of the components I wanted to implement
+**Thoughts:** Yayyy! Finally a bit of relief as I am able to create something i wanted to. A stable single page application with chart and cards. Need to automate the data tomorrow
+**Link to work:** https://github.com/Suryakumar007/covid-19
