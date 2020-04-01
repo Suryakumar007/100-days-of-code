@@ -45,3 +45,11 @@
 **Today's Progress**: Built a single page with many of the components I wanted to implement
 **Thoughts:** Yayyy! Finally a bit of relief as I am able to create something i wanted to. A stable single page application with chart and cards. Need to automate the data tomorrow
 **Link to work:** https://github.com/Suryakumar007/covid-19
+
+### Day 8: April 01 2020
+
+**Today's Progress**: Decluttered the file and separated the css and js
+**Thoughts:** Need to stylize the page overall. Need to learn bootstrap for that.
+**Link to work:** https://github.com/Suryakumar007/covid-19
+
+
