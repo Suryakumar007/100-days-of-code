@@ -52,4 +52,16 @@
 **Thoughts:** Need to stylize the page overall. Need to learn bootstrap for that.
 **Link to work:** https://github.com/Suryakumar007/covid-19
 
+### Day 9: April 02 2020
+
+**Today's Progress**: Started learning JS in Freecodecamp
+**Thoughts:** Exactly the basics i need to move ahead.
+**Link to work:** https://github.com/Suryakumar007/covid-19
+
+### Day 8: April 01 2020
+
+**Today's Progress**: Moved past 50+ exercises in JS part.
+**Thoughts:** Improved my JS skill and learning
+**Link to work:** https://github.com/Suryakumar007/covid-19
+
 
