@@ -58,10 +58,48 @@
 **Thoughts:** Exactly the basics i need to move ahead.
 **Link to work:** https://github.com/Suryakumar007/covid-19
 
-### Day 8: April 01 2020
+### Day 10: April 01 2020
 
 **Today's Progress**: Moved past 50+ exercises in JS part.
 **Thoughts:** Improved my JS skill and learning
 **Link to work:** https://github.com/Suryakumar007/covid-19
 
+### Day 11: April 02 2020
 
+**Today's Progress**: Moved past 70+ exercises in JS part.
+**Thoughts:** Improved my JS skill and learning
+
+### Day 12: April 03 2020
+
+**Today's Progress**: Put the JS part in idle and worked on some chart part
+**Thoughts:** Improved my JS skill and learning
+
+### Day 13: April 04 2020
+
+**Today's Progress**: Put the JS part in idle and started working on Crio Tryouts in GDG Cloud
+**Thoughts:** Improved my Python skills
+
+### Day 14: April 05 2020
+
+**Today's Progress**: Proceeded on Crio Tryouts to finish in GDG Cloud
+**Thoughts:** Improved my Python skills and git ideas.
+
+### Day 15: April 06 2020
+
+**Today's Progress**: Restarted learning JS in FCC.
+**Thoughts:** Completed around 90 problems
+
+### Day 16: April 07 2020
+
+**Today's Progress**: Restarted learning JS in FCC.
+**Thoughts:** Completed around 110 problems
+
+### Day 17: April 08 2020
+
+**Today's Progress**: Studied a pluralsight course on JS
+**Thoughts:** I think I am getting stronger in JS
+
+### Day 18: April 09 2020
+
+**Today's Progress**: Restarted learning JS in FCC.
+**Thoughts:** Completed 2 more sections
