@@ -103,3 +103,18 @@
 
 **Today's Progress**: Restarted learning JS in FCC.
 **Thoughts:** Completed 2 more sections
+
+### Day 18: April 09 2020
+
+**Today's Progress**: Restarted learning JS in FCC.
+**Thoughts:** Completed 2 more sections
+
+### Day 50: April 10 2020
+
+**Today's Progress**: Watched the video from FCC on HTML
+**Thoughts:** Gained a good basic knowledge on HTML. 
+
+### Day 51: May 11 2020
+
+**Today's Progress**: Dowmloaded Adobe XD and started learning Design
+**Thoughts:** Long road ahead have to make sure
