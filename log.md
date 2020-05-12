@@ -118,3 +118,8 @@
 
 **Today's Progress**: Dowmloaded Adobe XD and started learning Design
 **Thoughts:** Long road ahead have to make sure
+
+### Day 52: May 12 2020
+
+**Today's Progress**: Not a big progress but checked a little bit on Adobe XD
+**Thoughts:** Long road ahead have to make sure
