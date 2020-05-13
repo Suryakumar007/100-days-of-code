@@ -123,3 +123,8 @@
 
 **Today's Progress**: Not a big progress but checked a little bit on Adobe XD
 **Thoughts:** Long road ahead have to make sure
+
+### Day 53: May 13 2020
+
+**Today's Progress**: Finished setting up the Location to study/code. Felt happy to get it done.
+**Thoughts:** Long road ahead have to make sure that i continue
