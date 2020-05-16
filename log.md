@@ -128,3 +128,13 @@
 
 **Today's Progress**: Finished setting up the Location to study/code. Felt happy to get it done.
 **Thoughts:** Long road ahead have to make sure that i continue
+
+### Day 54: May 14 2020
+
+**Today's Progress**: Started the dialogflow tutorial on coursera.
+**Thoughts:** A little bit boring. But have to cope up with it.
+
+### Day 55: May 15 2020
+
+**Today's Progress**: Tried changing the line chart to stacked bar to make it look more better.
+**Thoughts:** Need to change the color and automate
